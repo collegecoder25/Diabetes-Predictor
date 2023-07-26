@@ -20,3 +20,4 @@ The model was trained using deeplearning which used several more python librarie
 6. Seaborn
 
 Make sure these libraries are pre-installed in the system before you try to run it.
+The diabetes.csv dataset was downloded from kaggle.
